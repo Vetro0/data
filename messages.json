@@ -31,6 +31,38 @@
         {
             "text": "Soy tu furro personal lo sabes?",
             "type": "gracioso"
+        },
+        {
+            "text": "skfjhsdkjfhskdjfh",
+            "type": "random"
+        },
+        {
+            "text": "fish",
+            "type": "random"
+        },
+        {
+            "text": "AAAAAAAAAAAAAAAAAAAA",
+            "type": "random"
+        },
+        {
+            "text": "3.141592653589793238462643383279",
+            "type": "random"
+        },
+        {
+            "text": "el perro sabe demasiado",
+            "type": "random"
+        },
+        {
+            "text": "Te dedico cada uno de mis atomos",
+            "type": "romantico"
+        },
+        {
+            "text": "Si lees esto, jugamos?",
+            "type": "normal"
+        },
+        {
+            "text": "Esto lo cree porque me importas",
+            "type": "romantico"
         }
     ]
 }
