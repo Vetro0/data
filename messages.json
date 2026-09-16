@@ -1,12 +1,38 @@
+```json
 {
     "messages": [
-        "Hoy pensé en ti.",
-        "Me gusta hablar contigo.",
-        "Eres lindo",
-        "Ojala escuchar musica juntos <3",
-        "Soy tu perro woof woof",
-        "HOLA FUTURO ESPOSOOO",
-        "Quisiera un futuro a tu lado",
-        "Soy tu furro personal lo sabes?"
+        {
+            "text": "Hoy pensé en ti.",
+            "type": "normal"
+        },
+        {
+            "text": "Me gusta hablar contigo.",
+            "type": "normal"
+        },
+        {
+            "text": "Eres lindo",
+            "type": "romantico"
+        },
+        {
+            "text": "Ojala escuchar musica juntos <3",
+            "type": "romantico"
+        },
+        {
+            "text": "Soy tu perro woof woof",
+            "type": "gracioso"
+        },
+        {
+            "text": "HOLA FUTURO ESPOSOOO",
+            "type": "romantico"
+        },
+        {
+            "text": "Quisiera un futuro a tu lado",
+            "type": "romantico"
+        },
+        {
+            "text": "Soy tu furro personal lo sabes?",
+            "type": "gracioso"
+        }
     ]
 }
+```
